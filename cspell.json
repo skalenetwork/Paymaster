@@ -3,6 +3,7 @@
     "language": "en",
     "ignorePaths": [
         ".gitignore",
+        ".openzeppelin/**",
         "artifacts/**",
         "cache/**",
         "coverage/**",
